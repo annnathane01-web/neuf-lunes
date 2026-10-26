@@ -1,0 +1,4 @@
+id;nom;categorie;prix;ancien_prix;tailles;couleurs;image;description;disponibilite;badge;sa_min;sa_max;vedette
+EXEMPLE-1;EXEMPLE - Robe de grossesse à supprimer;Robes;15000;20000;S|M|L|XL;Noir|Bleu;exemple-1.webp;Description courte du produit, matière, entretien.;disponible;Nouveau;12;40;oui
+EXEMPLE-2;EXEMPLE - Brassière d'allaitement à supprimer;Allaitement;8000;;M|L;Beige;exemple-2.webp;Souple et sans armature.;sur commande;;28;41;non
+EXEMPLE-3;EXEMPLE - Body bébé à supprimer;Bébé;3500;;0-3 mois|3-6 mois;Blanc|Jaune;exemple-3.webp;Coton doux.;epuise;;;;non
